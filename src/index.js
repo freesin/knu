@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Header from "./Header.js"
+import DataTable from "./DataTable.js"
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
